@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+img{
+  margin-top: 50px;
+}
+
+th,tr,td{
+  width: 200px;
+  border: 4px tomato solid;
+
+}
+button{
+  background-color: teal;
+  border: 4px tomato solid;
+  border-radius: 5px;
+  color: white;
+  height: 50px;
+  margin: 20px;
+  font-weight: bolder;
+
+}
+
